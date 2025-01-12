@@ -22,4 +22,3 @@ public class Historial {
                 monedaOrigen, monedaDestino, cantidad, resultado, timestamp);
     }
 }
-
